@@ -1,6 +1,4 @@
-namespace CyberHack
-{
-    public enum HackTool
+public enum HackTool
     {
         BruteForce,
         Phishing,
@@ -9,4 +7,3 @@ namespace CyberHack
         AIOverride,
         QuantumExploit
     }
-}
